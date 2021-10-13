@@ -1,1 +1,1 @@
-# Your-Own-Infinite-Runner-Game
+# your-own-infinite-runner-game
